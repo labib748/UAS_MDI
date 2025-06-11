@@ -1,16 +1,40 @@
-# todo_fizard
+# ToDoUASMDI
 
-A new Flutter project.
+### 👤 Nama Kontributor:
+- Muhammad Labib ([@labib748](https://github.com/labib748))
 
-## Getting Started
+### 📌 Judul Proyek:
+**ToDoList Mobile App – Flutter Based**
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Deskripsi Aplikasi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ToDoList adalah aplikasi mobile yang dikembangkan menggunakan **Flutter** untuk membantu pengguna mengelola daftar tugas mereka secara efisien. Aplikasi ini memungkinkan pengguna untuk:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Menambahkan tugas baru
+- Menandai tugas yang telah selesai
+- Menghapus tugas
+- Melihat daftar tugas secara real-time
+
+Aplikasi ini bersifat ringan, cepat, dan memiliki antarmuka pengguna yang bersih dan intuitif.
+
+---
+
+## 🔧 Teknologi yang Digunakan
+
+| Teknologi         | Keterangan                              |
+|-------------------|------------------------------------------|
+| **Flutter**       | Framework UI utama                      |
+| **Dart**          | Bahasa pemrograman utama                |
+| **Firebase** *(opsional)* | Backend (untuk autentikasi atau database realtime) |
+| **Material Design**| Untuk tampilan dan elemen UI           |
+
+---
+
+## ▶️ Cara Menjalankan Aplikasi (Local Development)
+
+### 1. **Clone Repository**
+```bash
+git clone https://github.com/labib748/UAS_MDI.git
+cd UAS_MDI
