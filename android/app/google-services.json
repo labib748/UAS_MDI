@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412284827472",
+    "project_id": "todo-uasmdi-925d2",
+    "storage_bucket": "todo-uasmdi-925d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412284827472:android:0e4f4735fdc954c9eb5e55",
+        "android_client_info": {
+          "package_name": "com.example.todo_UASMDI"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8jfnbkShiQV8TYcBg-04iBWGevDW2W7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
