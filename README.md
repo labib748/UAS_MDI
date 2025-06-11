@@ -34,8 +34,6 @@ Berikut adalah beberapa tampilan dari aplikasi ToDo Fizard:
 ### ✅ Login 
 ![Completed Task](screenshots/login.png)
 
-> 📌 **Catatan:** Pastikan kamu sudah mengunggah gambar di folder `/screenshots` pada repositori agar preview tampil dengan benar.
-
 ---
 
 ## 🔧 Teknologi yang Digunakan
